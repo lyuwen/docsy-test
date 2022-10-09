@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "docsy-test/"
 title = "Goldydocs"
 
 # Language settings
